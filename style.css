@@ -67,10 +67,10 @@ button{
     background-color: #145b6a;
 }
 
-#btn:hover{
+.btn:hover{
     background-color: rgb(54, 54, 54);
 }
 
-#btn.blue:hover{
+.btn.blue:hover{
     background-color: #104c57;
 }
