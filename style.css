@@ -22,7 +22,7 @@ h1{
 #expression{
     width: 350px;
     height: 70px;
-    padding-top: 50px;
+    padding-top: 10px;
     word-wrap: break-word;
     box-sizing: border-box;
     margin: 20px auto;
@@ -37,7 +37,7 @@ h1{
     height: 40px;
     margin: 10px auto;
     color:white;
-    font-size: 40px;
+    font-size: 30px;
     text-align: right;
 }
 
