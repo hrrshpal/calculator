@@ -59,10 +59,18 @@ button{
     font-size: large;
 }
 
-.btn{
+.buttons{
     margin: 5px 8px;
 }
 
 .blue{
     background-color: #145b6a;
+}
+
+#btn:hover{
+    background-color: rgb(54, 54, 54);
+}
+
+#btn.blue:hover{
+    background-color: #104c57;
 }
